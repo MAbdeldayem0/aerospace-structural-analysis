@@ -1,0 +1,51 @@
+# Large Video Files (too large for GitHub)
+*.MOV
+*.mov
+*.mp4
+*.MP4
+*.avi
+*.AVI
+
+# Large Binary Analysis Files
+*.modfem
+*.op2
+*.OP2
+
+# SolidWorks native files (keep exports instead)
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.sldprt
+*.sldasm
+*.slddrw
+
+# NASTRAN temporary/intermediate files
+*.f04
+*.f06
+*.log
+*.LOG
+*.mon1
+*.pch
+*.DBALL
+*.MASTER
+*.SCRATCH
+
+# Keep these (explicitly not ignored):
+# - *.x_t (STEP exports - universal CAD format)
+# - *.dat (NASTRAN input - shows model setup)
+# - *.xlsx (processed data)
+# - *.pdf (standards/references)
+# - *.pptx (final presentation)
+# - *.docx (documentation)
+# - *.DXF (2D drawings)
+
+# Windows system files
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Backup/duplicate files
+*- Copy*
+*copy*
+~$*
+nul
