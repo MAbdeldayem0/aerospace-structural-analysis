@@ -1,5 +1,7 @@
 # Aircraft Tiedown Chain Binder - Structural Analysis and Testing
 
+<img src="Picture1.jpg" width="400">
+
 **MECH 545 - Aerospace Structural Engineering Final Project**
 Air Force Institute of Technology (AFIT) | Summer 2025
 
